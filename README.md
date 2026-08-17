@@ -38,8 +38,9 @@
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dracedo-dev&theme=dark&hide_border=true" alt="Racha de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracedo-dev&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dracedo-dev&theme=dark&hide_border=true" alt="Racha de GitHub" width="65%" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=dracedo-dev&color=orange&style=flat-square" alt="Visitas al perfil" />
 </div>
 
 ---
